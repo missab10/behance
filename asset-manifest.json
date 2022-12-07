@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/behance/static/css/main.472b56d4.css",
+    "main.js": "/behance/static/js/main.71d2a3d6.js",
+    "static/js/787.e6e8afe4.chunk.js": "/behance/static/js/787.e6e8afe4.chunk.js",
+    "static/media/behance.png": "/behance/static/media/behance.f5ad4a0f800dde6d9fd1.png",
+    "static/media/food1.jpeg": "/behance/static/media/food1.1bab961054a9f7997e84.jpeg",
+    "static/media/food2.jpeg": "/behance/static/media/food2.0e1f03e5af76f86271c6.jpeg",
+    "static/media/img1.jpeg": "/behance/static/media/img1.e548e2334ee78ce7269c.jpeg",
+    "static/media/img2.jpeg": "/behance/static/media/img2.54900a0a0981a053e387.jpeg",
+    "static/media/img3.jpeg": "/behance/static/media/img3.585fadd1d188a1cda50c.jpeg",
+    "index.html": "/behance/index.html",
+    "main.472b56d4.css.map": "/behance/static/css/main.472b56d4.css.map",
+    "main.71d2a3d6.js.map": "/behance/static/js/main.71d2a3d6.js.map",
+    "787.e6e8afe4.chunk.js.map": "/behance/static/js/787.e6e8afe4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.472b56d4.css",
+    "static/js/main.71d2a3d6.js"
+  ]
+}
